@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bgcsmp.aternos.me:45866",
+    "ip": "bgcsmp.aternos.me",
     "port": 45866,
     "version": "",
     "try-creative": false
